@@ -1,0 +1,14 @@
+{
+  "moduleLoading": {
+    "prefix": "auto",
+    "crossOrigin": null
+  },
+  "moduleMap": {
+    "./src/ClientComponent.jsx": {
+      "*": {
+        "specifier": "file:///C:/Users/rohit/RCS/src/ClientComponent.jsx",
+        "name": "*"
+      }
+    }
+  }
+}
